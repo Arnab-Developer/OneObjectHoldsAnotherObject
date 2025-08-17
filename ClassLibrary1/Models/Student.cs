@@ -1,4 +1,4 @@
-﻿namespace TestProject1.Models;
+﻿namespace ClassLibrary1.Models;
 
 public class Student : IDisposable
 {

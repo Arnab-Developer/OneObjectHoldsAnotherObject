@@ -1,0 +1,1 @@
+﻿global using ClassLibrary1.Models;

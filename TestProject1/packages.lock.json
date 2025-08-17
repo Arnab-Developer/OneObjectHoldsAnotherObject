@@ -221,6 +221,9 @@
           "xunit.v3.extensibility.core": "[3.0.1]",
           "xunit.v3.runner.common": "[3.0.1]"
         }
+      },
+      "classlibrary1": {
+        "type": "Project"
       }
     }
   }

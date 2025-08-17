@@ -1,4 +1,4 @@
-﻿namespace TestProject1.Services;
+﻿namespace ClassLibrary1.Services;
 
 public interface IStudentService
 {

@@ -8,7 +8,7 @@ public class StudentServiceHoldingActualStudentTest
 
     public StudentServiceHoldingActualStudentTest()
     {
-        _student = new Student(34, "Jon 34", Path.Combine("C:", "Users", "ArnabDev", "notes.txt"));
+        _student = new Student(34, "Jon 34", "sample.txt");
         _service = new StudentServiceHoldingActualStudent(_student);
         _ct = CancellationToken.None;
     }
