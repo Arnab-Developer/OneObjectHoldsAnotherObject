@@ -9,7 +9,7 @@ on:
 
 env:
   DOTNET_VERSION: 9.0.x
-  CONFIGURATION: Release1
+  CONFIGURATION: Release
 
 jobs:
   build-test:    
